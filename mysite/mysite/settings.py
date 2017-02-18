@@ -25,7 +25,7 @@ SECRET_KEY = 'z=d^kcl7cjttvy*z-v26ln$l&bgk)%j14%%n!wh7blqd8=77^#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://ppyap.pythonanywhere.com']
 
 
 # Application definition
